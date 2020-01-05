@@ -1,6 +1,6 @@
 # A-Kaggle-Prize-Money-Competition
 <p align="center">
-  <img src="http://static4.businessinsider.com/image/4eb004e369bedd0b76000028-1200/kaggle-is-a-network-of-17000-phd-level-people-that-help-each-other-solve-impossible-problems.jpg">
+  <img src="https://www.dataapplab.com/wp-content/uploads/2017/04/kaggle-competition.png">
 </p>
 
 #### Q: How much does it cost to cool a skyscraper in the summer?
