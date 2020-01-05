@@ -1,6 +1,6 @@
 # A-Kaggle-Prize-Money-Competition
 <p align="center">
-  <img src="https://www.dataapplab.com/wp-content/uploads/2017/04/kaggle-competition.png">
+  <img src="https://www.dataapplab.com/wp-content/uploads/2017/04/kaggle-competition.png" width="200">
 </p>
 
 #### Q: How much does it cost to cool a skyscraper in the summer?
